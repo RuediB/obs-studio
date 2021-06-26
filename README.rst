@@ -13,6 +13,17 @@ OBS Studio <https://obsproject.com>
    :alt: OBS Studio Discord Server
    :target: https://obsproject.com/discord
 
+SPECIAL VERSION!
+----------------
+
+OBS Studio WHITELISTED
+
+There is a Blacklist in Obsproject's OBS Studio that prevents me and some others from using NVENC encoder with some older GPUs. For this Version, I removed all the cards from this List. That doesn't mean NVENC will work with all of these cards, but if it's one with Kepler architecture, then it's worth a try. And that's exactly what this release is for, you can try it, but I can't guarantee it will work. I will try to keep this version up to date and publish a release again when there is news.
+If the virus protection is triggered the first time it is run, it is most likely that the installer is not working optimally. IF YOU GET PROBLEMS OPERATING OLDER GRAPHIC CARDS, PLEASE DO NOT Bother OBSPROJECT SUPPORT. THEY HAD A REASON FOR THE BLACKLIST.
+At the moment, I know for sure that these GPUs are working:
+- GT710
+- GT740
+
 What is OBS Studio?
 -------------------
 
